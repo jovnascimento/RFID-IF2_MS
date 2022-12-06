@@ -315,11 +315,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\jovna\\Desktop\\MS\\MS_Ilog\\MS_Ilog.csproj",
+      "projectUniqueName": "C:\\Users\\jovna\\Desktop\\RFID-IF2_MS\\MS_Ilog\\MS_Ilog.csproj",
       "projectName": "MS_Ilog",
-      "projectPath": "c:\\Users\\jovna\\Desktop\\MS\\MS_Ilog\\MS_Ilog.csproj",
+      "projectPath": "C:\\Users\\jovna\\Desktop\\RFID-IF2_MS\\MS_Ilog\\MS_Ilog.csproj",
       "packagesPath": "C:\\Users\\jovna\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\jovna\\Desktop\\MS\\MS_Ilog\\obj\\",
+      "outputPath": "C:\\Users\\jovna\\Desktop\\RFID-IF2_MS\\MS_Ilog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jovna\\AppData\\Roaming\\NuGet\\NuGet.Config",

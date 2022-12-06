@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jovna\\Desktop\\MS\\MS_RRlog\\MS_RRlog.csproj": {}
+    "C:\\Users\\jovna\\Desktop\\RFID-IF2_MS\\MS_RRlog\\MS_RRlog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jovna\\Desktop\\MS\\MS_RRlog\\MS_RRlog.csproj": {
+    "C:\\Users\\jovna\\Desktop\\RFID-IF2_MS\\MS_RRlog\\MS_RRlog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jovna\\Desktop\\MS\\MS_RRlog\\MS_RRlog.csproj",
+        "projectUniqueName": "C:\\Users\\jovna\\Desktop\\RFID-IF2_MS\\MS_RRlog\\MS_RRlog.csproj",
         "projectName": "MS_RRlog",
-        "projectPath": "C:\\Users\\jovna\\Desktop\\MS\\MS_RRlog\\MS_RRlog.csproj",
+        "projectPath": "C:\\Users\\jovna\\Desktop\\RFID-IF2_MS\\MS_RRlog\\MS_RRlog.csproj",
         "packagesPath": "C:\\Users\\jovna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jovna\\Desktop\\MS\\MS_RRlog\\obj\\",
+        "outputPath": "C:\\Users\\jovna\\Desktop\\RFID-IF2_MS\\MS_RRlog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jovna\\AppData\\Roaming\\NuGet\\NuGet.Config",

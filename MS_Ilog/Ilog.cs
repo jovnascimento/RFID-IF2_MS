@@ -49,6 +49,7 @@ class Receive
                                  autoDelete: false,
                                  arguments: null);
 
+            //Consome a mensagem do canal
             var consumer = new EventingBasicConsumer(channel);
 
             consumer.Received += (model, ea) =>

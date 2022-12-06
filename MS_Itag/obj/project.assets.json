@@ -315,11 +315,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jovna\\Desktop\\MS\\MS_Itag\\MS_Itag.csproj",
+      "projectUniqueName": "C:\\Users\\jovna\\Desktop\\RFID-IF2_MS\\MS_Itag\\MS_Itag.csproj",
       "projectName": "MS_Itag",
-      "projectPath": "C:\\Users\\jovna\\Desktop\\MS\\MS_Itag\\MS_Itag.csproj",
+      "projectPath": "C:\\Users\\jovna\\Desktop\\RFID-IF2_MS\\MS_Itag\\MS_Itag.csproj",
       "packagesPath": "C:\\Users\\jovna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jovna\\Desktop\\MS\\MS_Itag\\obj\\",
+      "outputPath": "C:\\Users\\jovna\\Desktop\\RFID-IF2_MS\\MS_Itag\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jovna\\AppData\\Roaming\\NuGet\\NuGet.Config",
